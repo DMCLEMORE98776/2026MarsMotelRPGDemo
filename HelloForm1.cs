@@ -21,5 +21,10 @@ namespace _2026MarsMotelRPGDEMO
         {
 
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
